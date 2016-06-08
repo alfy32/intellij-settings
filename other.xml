@@ -67,6 +67,11 @@
     <option name="SHOW_PATH" value="true" />
   </component>
   <component name="EulaComponent" lastAcceptedEulaDate="1423551600000" dateOfAcceptance="1446479047247" />
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="C:/Program Files/nodejs/node.exe">
+      <version-cache version="0.10.35" last-modified="1419309106000" />
+    </local-interpreter>
+  </component>
   <component name="PropertiesSeparatorManager">
     <file url="resourceBundle:file://C:/Users/Alfy/tree-data/tree-data/src/main/resources/org/familysearch/tree/ws/services/FamilyMemberService" separator="\u005f" />
   </component>
