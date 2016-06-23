@@ -68,12 +68,12 @@
   </component>
   <component name="EulaComponent" lastAcceptedEulaDate="1423551600000" dateOfAcceptance="1446479047247" />
   <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="C:/Program Files/nodejs/node.exe">
+      <version-cache version="4.4.5" last-modified="1464133286000" />
+      <npm-package value="C:/Program Files/nodejs/node_modules/npm" />
+    </local-interpreter>
     <local-interpreter path="$USER_HOME$/AppData/Roaming/npm/nodemon.cmd">
       <version-cache version="1.9.2" last-modified="1465853141305" />
-    </local-interpreter>
-    <local-interpreter path="C:/Program Files/nodejs/node.exe">
-      <version-cache version="0.10.35" last-modified="1419309106000" />
-      <npm-package value="C:/Program Files/nodejs/node_modules/npm" />
     </local-interpreter>
   </component>
   <component name="PropertiesSeparatorManager">
