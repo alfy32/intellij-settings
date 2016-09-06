@@ -2,6 +2,7 @@
   <component name="ExternalResourceManagerImpl">
     <resource url="http://enunciate.webcohesion.com/schemas/enunciate-2.0.0.xsd" location="$USER_HOME$/.IntelliJIdea14/system/extResources/d0f32d71_enunciate-2.0.0.xsd" />
     <resource url="http://enunciate.webcohesion.com/schemas/enunciate-2.5.0.xsd" location="$USER_HOME$/.IntelliJIdea2016.2/system/extResources/d97255b6_enunciate-2.5.0.xsd" />
+    <resource url="http://enunciate.webcohesion.com/schemas/enunciate-2.6.0.xsd" location="$USER_HOME$/.IntelliJIdea2016.2/system/extResources/e5890f7_enunciate-2.6.0.xsd" />
     <ignored-resource url="http://jakarta.apache.org/log4j/" />
   </component>
 </application>
