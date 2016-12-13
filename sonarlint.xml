@@ -6,10 +6,6 @@
           <option name="hostUrl" value="http://sonarqube02.a.fsglobal.net:9000/" />
           <option name="name" value="New Sonar" />
         </SonarQubeServer>
-        <SonarQubeServer>
-          <option name="hostUrl" value="http://fhmetrics.fsglobal.net:9000" />
-          <option name="name" value="Sonar" />
-        </SonarQubeServer>
       </list>
     </option>
   </component>
