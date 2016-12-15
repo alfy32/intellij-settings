@@ -4,7 +4,8 @@
       <list>
         <SonarQubeServer>
           <option name="hostUrl" value="http://sonarqube02.a.fsglobal.net:9000/" />
-          <option name="name" value="New Sonar" />
+          <token />
+          <option name="name" value="Sonar" />
         </SonarQubeServer>
       </list>
     </option>
