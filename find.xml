@@ -2,9 +2,7 @@
   <component name="FindSettings">
     <option name="customScope" value="Directory 'C:\Users\Alfy\git\tree-data\tree-data\src\main\java\org\familysearch\tree\ws\services\families\pipeline'" />
     <option name="defaultScopeName" value="Directory 'C:\Users\Alfy\git\tree-data\tree-data\src\main\java\org\familysearch\tree\ws\services\families\pipeline'" />
-    <option name="localCaseSensitive" value="true" />
     <option name="wholeWordsOnly" value="true" />
-    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="Directory 'C:\Users\Alfy\git\tree-data\tree-data\src\main\java\org\familysearch\tree\ws\services\families\pipeline'" />
   </component>
