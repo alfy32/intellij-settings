@@ -8,6 +8,7 @@
       <mapping pattern="stuff" type="PLAIN_TEXT" />
       <mapping pattern="id count" type="PLAIN_TEXT" />
       <mapping pattern="error" type="PLAIN_TEXT" />
+      <mapping pattern="enum_ui-conclusion-type.json" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
